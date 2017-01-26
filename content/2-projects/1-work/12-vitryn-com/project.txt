@@ -1,0 +1,33 @@
+Title: Vitryn.com
+
+----
+
+Number: 2.3
+
+----
+
+Year: 2012
+
+----
+
+Text: 
+
+----
+
+Tags: 
+
+----
+
+Type: E-Commerce
+
+----
+
+Role: Co-Founder - UX - Strategist
+
+----
+
+Textproject: Vitryn was a curated product advisor that also serves as a social product recommender. This project was part of the Chilean incubator program (link: http://www.startupchile.com text:  Start Up Chile ). Project made with (link: http://www.sebastianrodriguez.ch text: Sebastián Rodríguez target:_blank) and Stefan Paulsen.
+
+----
+
+Credits: 

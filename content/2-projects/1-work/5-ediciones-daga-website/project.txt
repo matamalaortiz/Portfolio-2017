@@ -1,0 +1,29 @@
+Title: Ediciones Daga Website
+
+----
+
+Year: 2016
+
+----
+
+Type: Website
+
+----
+
+Role: Web Developer
+
+----
+
+Textproject: 
+
+With the designer (link: http://www.sebastianrodriguez.ch text: Sebastián Rodríguez) we worked in website of Ediciones Daga. The site was made using Kirby CMS.
+
+(link: http://www.edicionesdaga.com text:  www ↦  target:_blank)
+
+----
+
+Credits: Design by Sebastian Rodriguez
+
+----
+
+Video: 

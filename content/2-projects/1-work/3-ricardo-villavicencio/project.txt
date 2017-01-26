@@ -1,0 +1,21 @@
+Title: Ricardo Villavicencio
+
+----
+
+Year: 2016
+
+----
+
+Type: Website
+
+----
+
+Role: Web Development
+
+----
+
+Textproject: With the designer (link: http://www.sebastianrodriguez.ch text: Sebastián Rodríguez) we worked in the portfolio site of the artist and designer Ricardo Villavicencio. The site was made using Kirby CMS.
+
+----
+
+Credits: 

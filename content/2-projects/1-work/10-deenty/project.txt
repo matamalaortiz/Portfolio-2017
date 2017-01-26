@@ -1,0 +1,41 @@
+Title: Deenty.com
+
+----
+
+Number: 2.2
+
+----
+
+Year: 2014
+
+----
+
+Text: 
+
+----
+
+Tags: 
+
+----
+
+Type: Website
+
+----
+
+Role: Ux / Ui
+
+----
+
+Textproject: 
+
+ Deenty is a startup that seeks to increase access to dentists in Chile and Latin America. I worked as UX / UI designer and collaborating in the front end development to helping the team creating a better online experience to book medical appointments. 
+
+(link: http://www.deenty.com text: www ↦ target:_blank )
+
+----
+
+Credits: 
+
+----
+
+Video: 

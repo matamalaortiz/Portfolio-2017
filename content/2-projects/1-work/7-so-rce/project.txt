@@ -1,0 +1,37 @@
+Title: So-rce.com
+
+----
+
+Number: 1.1
+
+----
+
+Year: 2015
+
+----
+
+Text: 
+
+----
+
+Tags: 
+
+----
+
+Type: Website
+
+----
+
+Role: Design - Development
+
+----
+
+Textproject: 
+
+A personal bookmarking collection of things I find interesting while browsing the internet. Web design and development.
+
+(link: http://www.so-rce.com text: www ↦ target:_blank )
+
+----
+
+Credits: Website powered by  (link: http://www.getkirby.com text:Kirby CMS target:_blank )

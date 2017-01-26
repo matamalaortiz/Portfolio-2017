@@ -1,0 +1,25 @@
+Title: Die Ecke
+
+----
+
+Year: 2016
+
+----
+
+Type: Website
+
+----
+
+Role: Web Design and Development
+
+----
+
+Textproject: 
+
+Web Design, templating and styles for the website of the Art gallery Die Ecke ( Santiago - Barcelona ). Made using Kirby file-based CMS.
+
+(link: http://www.dieecke.cl text: www ↦ target:_blank )
+
+----
+
+Credits: 

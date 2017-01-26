@@ -1,0 +1,37 @@
+Title: Benjamín Ossa
+
+----
+
+Number: 0.1
+
+----
+
+Year: 2016
+
+----
+
+Text: 
+
+----
+
+Tags: 
+
+----
+
+Type: Website
+
+----
+
+Role: Web Design and Development
+
+----
+
+Textproject: 
+
+Web design and development using Kirby Cms for the portfolio website of the chilean artist (link: http://www.benjaminossa.com text: Benjamín Ossa target:_blank).
+
+(link: http://www.benjaminossa.com text: www ↦ target:_blank )
+
+----
+
+Credits: Site powered by (link: http://www.getkirby.com text: Kirby CMS. target:_blank )

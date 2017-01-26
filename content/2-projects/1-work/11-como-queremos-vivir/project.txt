@@ -1,0 +1,33 @@
+Title: Como Queremos vivir
+
+----
+
+Number: 1.2
+
+----
+
+Year: 2012
+
+----
+
+Text: Ed
+
+----
+
+Tags: Exhibition
+
+----
+
+Textproject: Group show curated and produced by (link: http://www.edicionesdaga.com text: Ediciones Daga) in Sala Cero of (link: http://www.galeriaanimal.com/ text: Galería Animal). As part of the curator's team, we were lead to the idea of creative processes and the selections of works that reflect the reproductive processes. The exhibition was accompanied by a publication where the work of each artist was associated with the publishing world through the art of reproduction.
+
+----
+
+Credits: Exhibition made with (link: http://www.edicionesdaga.com text: Ediciones Daga).
+
+----
+
+Type: Exhibition
+
+----
+
+Role: Curator - Exhibitor

@@ -1,0 +1,6 @@
+/kirby
+/site/accounts
+/site/config
+/site/cache
+.DS_Store
+/assets/fonts

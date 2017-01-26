@@ -1,0 +1,33 @@
+Title: Daga Zines
+
+----
+
+Number: 1.6
+
+----
+
+Year: 2010
+
+----
+
+Text: 
+
+----
+
+Tags: 
+
+----
+
+Type: Zines
+
+----
+
+Role: Publisher - Editor
+
+----
+
+Textproject: Daga zine, is a newspaper-type printed publication that presents and investigates the work of certain groups of creators. To date, together with  (link: http://www.edicionesdaga.com text: Ediciones Daga target:_blank), we have edited, designed and distributed twelve issues of this publication. Daga is a publishing project that aims at documenting in print the processes and creative work of Chilean artists.
+
+----
+
+Credits: Made with (link: http://www.edicionesdaga.com text: Ediciones Daga).

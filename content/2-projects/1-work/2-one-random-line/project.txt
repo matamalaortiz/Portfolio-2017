@@ -1,0 +1,25 @@
+Title: One Random Line
+
+----
+
+Year: 2016
+
+----
+
+Type: Twitter Bot
+
+----
+
+Role: Development
+
+----
+
+Textproject: 
+
+A small twitter bot created with Node.Js and Processing that draw and tweet one random line ( @onerandomline) with a constant height in the second point (y2) every so often from my personal computer. 
+
+(link: http://www.twitter.com/onerandomline text: www ↦ target:_blank )
+
+----
+
+Credits: 

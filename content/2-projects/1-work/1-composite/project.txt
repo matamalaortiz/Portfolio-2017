@@ -1,0 +1,29 @@
+Title: Composite
+
+----
+
+Year: 2016
+
+----
+
+Type: Physical Device
+
+----
+
+Role: Development
+
+----
+
+Textproject: 
+
+A small tool I created during my first semester at (link: http://www.itp.nyu.edu text: ITP) to compose images from a bunch of photos I have collected during a period of time from the internet, scanned from magazines and books and film photos taken by me, plus the intervention of random users during a show exhibition. As a result, the new images are outputted to a twitter account (@compositeDevice) and saved to an auto-generated PDF Book. This project was created using an Arduino Uno, Node.Js and Image Magick.
+
+(link: http://www.twitter.com/compositeDevice text:  www ↦  target:_blank)
+
+----
+
+Credits: 
+
+----
+
+Video: <iframe src="https://player.vimeo.com/video/200270986?title=0&byline=0&portrait=0" width="900" height="506" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
